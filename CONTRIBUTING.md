@@ -28,20 +28,21 @@ Please read the following instructions before making any contribution to the pro
 ```bash
 git clone https://github.com/JoaquinLuisGuevarra96/project-floriograph.git
 cd project-floriograph
+npm install
 ```
 
 ## Branches
 
 Use a short, prefixed, kebab-case name. An example is: `chore/init-setup`. Below is a table of official prefixes for branch naming.
 
-| Prefix      | Purpose                                  |
-| ----------- | ---------------------------------------- |
-| `feat/`     | New feature                              |
-| `fix/`      | Bug fix                                  |
-| `chore/`    | Tooling, dependencies, maintenance       |
-| `docs/`     | Documentation only                       |
-| `refactor/` | Behaviour-preserving code change         |
-| `test/`     | Tests only                               |
+| Prefix      | Purpose                            |
+| ----------- | ---------------------------------- |
+| `feat/`     | New feature                        |
+| `fix/`      | Bug fix                            |
+| `chore/`    | Tooling, dependencies, maintenance |
+| `docs/`     | Documentation only                 |
+| `refactor/` | Behaviour-preserving code change   |
+| `test/`     | Tests only                         |
 
 ## Commits
 
