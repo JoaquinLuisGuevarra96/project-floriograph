@@ -5,10 +5,10 @@
 Security fixes are applied to the latest release and to the `main` branch.
 Older versions are not supported unless explicitly listed below.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| latest  | :white_check_mark: |
-| < latest| :x:                |
+| Version  | Supported          |
+| -------- | ------------------ |
+| latest   | :white_check_mark: |
+| < latest | :x:                |
 
 ## Reporting a vulnerability
 
@@ -32,12 +32,12 @@ Report privately using either channel below:
 
 ### What to expect
 
-| Stage                          | Target timeframe      |
-| ------------------------------ | --------------------- |
-| Acknowledgement of report      | within 3 business days|
-| Initial assessment / triage    | within 7 business days|
-| Status update cadence          | every 7 days          |
-| Fix or mitigation for critical | within 30 days        |
+| Stage                          | Target timeframe       |
+| ------------------------------ | ---------------------- |
+| Acknowledgement of report      | within 3 business days |
+| Initial assessment / triage    | within 7 business days |
+| Status update cadence          | every 7 days           |
+| Fix or mitigation for critical | within 30 days         |
 
 We will keep you informed throughout, and we will credit you in the advisory
 and release notes unless you ask us not to.
